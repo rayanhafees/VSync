@@ -20,7 +20,7 @@ Flutter frontend communicates with backend APIs to fetch and display faculty cab
 <img width="180" src="https://github.com/user-attachments/assets/97d41974-6b6a-4c3a-9870-99428dd236c1" />
 <img width="180" src="https://github.com/user-attachments/assets/f0568e81-20f7-42ca-9f99-2601eea9ea22" />
 <img width="180" height="708" alt="image" src="https://github.com/user-attachments/assets/d01c2aa1-d739-493b-a7a8-40de7579f87b" />
-<img width="339" height="735" alt="image" src="https://github.com/user-attachments/assets/1d9d4cf4-cc3d-4c98-89bb-ee667b2e4423" />
+<img width="180" height="735" alt="image" src="https://github.com/user-attachments/assets/1d9d4cf4-cc3d-4c98-89bb-ee667b2e4423" />
 
 
 
