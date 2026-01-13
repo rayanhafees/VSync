@@ -16,7 +16,9 @@ Flutter, Dart, REST API, Backend Server, Database, Git
 Flutter frontend communicates with backend APIs to fetch and display faculty cabin information dynamically.
 
 ##  Screenshots
-(Add screenshots here)
+  <img width="323" height="722" alt="image" src="https://github.com/user-attachments/assets/d3d59d22-8ff2-4652-97c4-3114501a8b1d" />
+  
+
 
 ##  Setup
 1. Clone the repository
