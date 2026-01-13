@@ -25,11 +25,6 @@ Flutter frontend communicates with backend APIs to fetch and display faculty cab
 
 
 
-##  Setup
-1. Clone the repository
-2. Open in Android Studio / VS Code
-3. Run using Flutter SDK
-
 ##  Future Improvements
 - Authentication
 - Cloud deployment
